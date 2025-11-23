@@ -1,11 +1,11 @@
 {
-  "name": "❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
+  "name": "WHITE DRAGON MD",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "WHITE DRAGON BOT IS POWERFULL🔥",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
-    "stop": "pm2 stop ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
+    "start": "pm2 start index.js --deep-monitoring --attach --name 'WHITE DRAGON MD'",
+    "stop": "pm2 stop 'WHITE DRAGON MD'",
     "restart": "pm2 restart ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️"
   },
   "dependencies": {
