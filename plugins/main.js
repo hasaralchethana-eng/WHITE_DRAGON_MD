@@ -252,7 +252,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/jP4PVJSz/Queen-Rashu-Md.jpg` },
+                image: { url: `https://github.com/hasaralchethana-eng/chethana/blob/main/IMG-20251026-WA0352.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
